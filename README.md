@@ -32,3 +32,4 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dacosta-github&repo=udacity-mle)](https://github.com/dacosta-github/udacity-mle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dacosta-github&repo=udacity-de)](https://github.com/dacosta-github/udacity-de)
